@@ -10,7 +10,7 @@
 ## Getting Started
 Step 1: Clone the repository
 ```
-git clone https://github.com/Humphrey-nyaga/
+git clone https://github.com/Humphrey-nyaga/simpleregistrationproject.git
 ```
 Step 2: Clone the repository
 ```
